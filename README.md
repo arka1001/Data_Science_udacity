@@ -2,7 +2,7 @@
 Simple code snippets to perform various data wrangling operations using python and 'pandas' module. The datasets are provided by the 'Intro to Data Science' course in Udacity.
 
 
-The datasets can also downloaded from the following links:
+The datasets can also be downloaded from the following links:
 
 WEATHER data : https://www.dropbox.com/s/7sf0yqc9ykpq3w8/weather_underground.csv
 
