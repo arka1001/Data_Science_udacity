@@ -1,5 +1,5 @@
 # Data_Science_udacity
-Simple code snippets to perform various data wrangling operations using python and 'pandas' module. The datasets are provided by the 'Intro to Data Science' course in Udacity.
+Simple code snippets to perform various data wrangling operations using 'pandas' dataframe in python. The datasets are provided by the 'Intro to Data Science' course in Udacity.
 
 
 The datasets can also be downloaded from the following links:
