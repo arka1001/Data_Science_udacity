@@ -34,3 +34,4 @@ def get_hourly_exits(df):
     df['EXITSn_hourly'] = df['EXITSn'] - df['EXITSn'].shift(1) 
     return df.fillna(0)
 
+
