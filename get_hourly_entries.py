@@ -38,3 +38,4 @@ def get_hourly_entries(df):
     df1 = df
     df['ENTRIESn_hourly'] = df['ENTRIESn'] - df['ENTRIESn'].shift(1)
     return df.fillna(1)
+    
