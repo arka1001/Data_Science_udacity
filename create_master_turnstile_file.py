@@ -35,8 +35,4 @@ def create_master_turnstile_file(filenames, output_file):
                 for line in f_in.readlines():
                     master_file.write(line)
  
-                
-                
-                
-                
 
