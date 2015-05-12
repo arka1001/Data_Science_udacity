@@ -50,4 +50,3 @@ def fix_turnstile_data(filenames):
                     new_csv.writerow(line[:3] + line[33:38])
                     new_csv.writerow(line[:3] + line[38:43])
     
-    
