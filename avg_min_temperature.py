@@ -29,3 +29,4 @@ def avg_min_temperature(filename):
     #Execute your SQL command against the pandas frame
     avg_min_temp_rainy = pandasql.sqldf(q.lower(), locals())
     return avg_min_temp_rainy
+    
