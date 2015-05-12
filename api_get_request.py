@@ -10,3 +10,4 @@ def api_get_request(url):
     response = requests.get(url)
     top_artists = json.loads(response.text)
     return top_artists['topartists']['artist'][0]['name']
+    
