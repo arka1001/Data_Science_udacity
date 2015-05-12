@@ -37,3 +37,5 @@ def avg_weekend_temperature(filename):
     #Execute your SQL command against the pandas frame
     mean_temp_weekends = pandasql.sqldf(q.lower(), locals())
     return mean_temp_weekends
+    
+    
