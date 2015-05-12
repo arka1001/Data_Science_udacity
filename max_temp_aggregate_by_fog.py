@@ -32,4 +32,3 @@ def max_temp_aggregate_by_fog(filename):
     #Execute your SQL command against the pandas frame
     foggy_days = pandasql.sqldf(q.lower(), locals())
     return foggy_days
-
